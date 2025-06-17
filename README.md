@@ -6,7 +6,7 @@ A sleek, modern, and fully responsive **Coffee Shop website template** built usi
 
 ![coffee-preview](preview-image-url-here) <!-- Optional: replace with your screenshot -->
 
----
+🔗 **Live Demo:** [View Project Here]([https://yourusername.github.io/coffee-template](https://hilarious-faun-70e3d6.netlify.app/))
 
 ## 🌟 Highlights
 
